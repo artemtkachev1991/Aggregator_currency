@@ -1,0 +1,38 @@
+[
+  {
+    "name": "USD",
+    "action": "BUYING",
+    "value": "15.28",
+    "allowed": true
+  },
+  {
+    "name": "USD",
+    "action": "SELLING",
+    "value": "18.22",
+    "allowed": true
+  },
+  {
+    "name": "GBR",
+    "action": "BUYING",
+    "value": "19.08",
+    "allowed": true
+  },
+  {
+    "name": "GBR",
+    "action": "SELLING",
+    "value": "49.25",
+    "allowed": true
+  },
+  {
+    "name": "EUR",
+    "action": "BUYING",
+    "value": "19.33",
+    "allowed": true
+  },
+  {
+    "name": "EUR",
+    "action": "SELLING",
+    "value": "79.35",
+    "allowed": true
+  }
+]
